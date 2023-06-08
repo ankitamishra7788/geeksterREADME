@@ -1,23 +1,69 @@
-# geeksterREADME
-class repo
-## Heading 2
-#### Heading 4
-###### Heading 6
+## **Welcome to README-FILE 👋**
+___
+___
 
-HEY THERE This is plain text
 
-This is __mphasised__ text
+> CLI that generates beautiful README.md files.
 
-This is _itelic_ text
+🏡 [**Homepage**](#heading-ids) 
 
-### * list Bullet Points
-* Number 1
-* Number 2
-* Number 3
+**Prerequisites**
+___
+- npm >= 5.5.0
+- node >= 9.3.0
 
-### Again * Lists
-* Number 1
-* Number 2
-* Number 3
+**Install**
+___
+
+> npm install
+
+**Usage**
+___
+> npm run start
+
+**Run tests**
+___
+> npm run test
+
+
+**Author**
+____
+
+🙍‍♀️ Ankita Garg
+
+- Twitter: [@AnkitaM76579570]
+
+- Github: [@ankitamishra7788]
+
+
+🤝 **Contributing**
+___
+Contributions, issues and feature requests are welcome!
+Feel free to check the page.
+
+**Show Your Support**
+___
+Give a ⭐if this project helped you!
+
+- ```bash
+  BECOME A DEVELOPER 👩‍💻
+
+<!-- Here something icon -->
+
+📝 **License**
+___
+Copyright © 2023 [Ankita Garg](#heading-ids).
+
+This project is [MIT](https://choosealicense.com/licenses/mit/) licensed.
+
+___
+*This README was generated with* 🧡 *by [readme-md-generator](https://www.makeareadme.com/)*
+
+
+
+
+
+
+
 
 
